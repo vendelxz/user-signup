@@ -22,3 +22,6 @@ rad.json
 TestResults.xml
 #Environment settings file
 .env
+#Clj
+.clj-kondo
+.lsp
