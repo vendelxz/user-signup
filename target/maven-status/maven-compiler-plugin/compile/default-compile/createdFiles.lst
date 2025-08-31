@@ -1,1 +1,2 @@
 com\usersignup\entity\User.class
+com\usersignup\dtos\UserRequestDTO.class
