@@ -1,2 +1,9 @@
-com\usersignup\entity\User.class
+com\usersignup\service\UserService.class
+com\usersignup\dtos\UserResponseDTO.class
 com\usersignup\dtos\UserRequestDTO.class
+com\usersignup\repository\UserRepository.class
+com\usersignup\entity\User.class
+com\usersignup\security\SecurityConfig.class
+com\usersignup\controller\UserController.class
+com\usersignup\UserSignUpApplication.class
+com\usersignup\security\JwtUtil.class
